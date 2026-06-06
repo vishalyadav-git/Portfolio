@@ -1,16 +1,105 @@
-# React + Vite
+# Vishal Yadav Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer portfolio built using React, Vite, and JavaScript.
 
-Currently, two official plugins are available:
+🌐 Live Website: https://vishalyadav-engineer.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+This portfolio showcases my skills, projects, experience, and achievements as a Full Stack Developer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The portfolio highlights:
 
-## Expanding the ESLint configuration
+* MERN Stack Development
+* Java Backend Development
+* Data Structures & Algorithms
+* Full Stack Projects
+* Internship Experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Modern Dark UI
+* Responsive Design
+* Animated Hero Section
+* Interactive Project Showcase
+* Resume Download
+* Contact Form Integration
+* Glassmorphism Effects
+* Smooth Scroll Animations
+
+## Featured Projects
+
+### Wanderlust
+
+Airbnb-inspired full-stack property rental platform with authentication, authorization, reviews, and CRUD functionality.
+
+### SurakshaX
+
+AI-powered safety and emergency response platform.
+
+### Chandrashekhar Stores
+
+E-commerce platform for groceries and daily essentials.
+
+### Finance Agent
+
+Personal finance management and analytics application.
+
+## Tech Stack
+
+### Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Vite
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+## Installation
+
+Clone the repository:
+
+git clone <repository-url>
+
+Navigate to the project:
+
+cd portfolio
+
+Install dependencies:
+
+npm install
+
+Start development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+## Contact
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+LinkedIn: your-linkedin-profile
+
+GitHub: your-github-profile
+
+Portfolio: https://vishalyadav-engineer.vercel.app
