@@ -27,79 +27,12 @@ The portfolio highlights:
 * Glassmorphism Effects
 * Smooth Scroll Animations
 
-## Featured Projects
-
-### Wanderlust
-
-Airbnb-inspired full-stack property rental platform with authentication, authorization, reviews, and CRUD functionality.
-
-### SurakshaX
-
-AI-powered safety and emergency response platform.
-
-### Chandrashekhar Stores
-
-E-commerce platform for groceries and daily essentials.
-
-### Finance Agent
-
-Personal finance management and analytics application.
-
-## Tech Stack
-
-### Frontend
-
-* React
-* JavaScript
-* HTML5
-* CSS3
-* Vite
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-
-## Installation
-
-Clone the repository:
-
-git clone <repository-url>
-
-Navigate to the project:
-
-cd portfolio
-
-Install dependencies:
-
-npm install
-
-Start development server:
-
-npm run dev
-
-Build for production:
-
-npm run build
-
 ## Contact
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [yadavvishal00101@gmail.com](mailto:yadavvishal00101@gmail.com)
 
-LinkedIn: your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/vishalyadav01/
 
-GitHub: your-github-profile
+GitHub: https://github.com/vishalyadav-git
 
 Portfolio: https://vishalyadav-engineer.vercel.app
