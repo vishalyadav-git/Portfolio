@@ -84,7 +84,7 @@ export default function Achievements() {
 
         .ach-card:hover {
           border-color: var(--color-primary);
-          box-shadow: 0 10px 25px rgba(59, 130, 246, 0.1);
+          box-shadow: 0 10px 25px rgba(16, 185, 129, 0.1);
         }
 
         .ach-header {
@@ -98,8 +98,8 @@ export default function Achievements() {
           width: 46px;
           height: 46px;
           border-radius: 12px;
-          background: rgba(6, 182, 212, 0.1);
-          border: 1px solid rgba(6, 182, 212, 0.2);
+          background: rgba(20, 184, 166, 0.1);
+          border: 1px solid rgba(20, 184, 166, 0.2);
           display: flex;
           align-items: center;
           justify-content: center;
@@ -108,8 +108,8 @@ export default function Achievements() {
 
         .ach-card:hover .ach-icon-container {
           color: var(--color-primary);
-          background: rgba(59, 130, 246, 0.1);
-          border-color: rgba(59, 130, 246, 0.2);
+          background: rgba(16, 185, 129, 0.1);
+          border-color: rgba(16, 185, 129, 0.2);
         }
 
         .ach-icon {

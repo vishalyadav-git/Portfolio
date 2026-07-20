@@ -9,7 +9,7 @@ const CERTS = [
     year: '2025',
     detail: 'Completed a comprehensive 1-month full-stack development internship focusing on designing RESTful APIs and React UI components.',
     icon: <Server size={24} />,
-    color: '#3B82F6',
+    color: '#10B981',
     verify: 'MERN Developer Intern',
     link: null
   },
@@ -136,7 +136,7 @@ export default function Certifications() {
 
         .cert-card:hover {
           border-color: var(--color-primary);
-          box-shadow: 0 10px 25px rgba(59, 130, 246, 0.1);
+          box-shadow: 0 10px 25px rgba(16, 185, 129, 0.1);
         }
 
         .cert-header {

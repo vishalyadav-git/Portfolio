@@ -379,7 +379,7 @@ export default function Contact() {
 
         .info-item-link:hover {
           border-color: var(--color-primary);
-          box-shadow: 0 5px 15px rgba(59, 130, 246, 0.08);
+          box-shadow: 0 5px 15px rgba(16, 185, 129, 0.08);
           transform: translateY(-2px);
         }
 
@@ -400,12 +400,12 @@ export default function Contact() {
         }
 
         .mail-wrapper {
-          background: rgba(59, 130, 246, 0.1);
+          background: rgba(16, 185, 129, 0.1);
           color: var(--color-primary);
         }
 
         .phone-wrapper {
-          background: rgba(6, 182, 212, 0.1);
+          background: rgba(20, 184, 166, 0.1);
           color: var(--color-secondary);
         }
 

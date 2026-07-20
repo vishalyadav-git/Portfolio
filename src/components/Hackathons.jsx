@@ -30,7 +30,7 @@ const ACTIVITIES = [
     duration: '2023 - Present',
     description: 'Participated in advanced technical coding labs, algorithmic workshops, and peer-to-peer programming development sessions.',
     icon: <Users size={26} />,
-    color: '#06B6D4', // Cyan network vibe
+    color: '#14B8A6', // Teal network vibe
     tags: ['Algorithms Lab', 'Tech Workshops', 'Community Coding']
   }
 ];
@@ -116,7 +116,7 @@ export default function Hackathons() {
 
         .hack-card:hover {
           border-color: var(--color-primary);
-          box-shadow: 0 10px 25px rgba(59, 130, 246, 0.1);
+          box-shadow: 0 10px 25px rgba(16, 185, 129, 0.1);
         }
 
         .hack-icon-box {

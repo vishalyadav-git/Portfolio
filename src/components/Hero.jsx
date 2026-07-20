@@ -209,7 +209,7 @@ export default function Hero() {
         .social-link-btn:hover {
           color: #ffffff;
           border-color: var(--color-secondary);
-          box-shadow: 0 0 15px rgba(6, 182, 212, 0.4);
+          box-shadow: 0 0 15px rgba(20, 184, 166, 0.4);
           transform: translateY(-3px);
         }
 

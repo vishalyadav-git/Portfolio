@@ -53,7 +53,7 @@ const TECH_ICONS = {
     </svg>
   ),
   RESTAPIs: (
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#3B82F6" strokeWidth="2">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#10B981" strokeWidth="2">
       <rect x="2" y="3" width="20" height="6" rx="1" />
       <rect x="2" y="15" width="20" height="6" rx="1" />
       <line x1="6" y1="6" x2="6.01" y2="6" strokeLinecap="round" />

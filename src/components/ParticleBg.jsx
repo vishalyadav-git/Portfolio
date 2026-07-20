@@ -49,7 +49,7 @@ export default function ParticleBg() {
         this.vx = (Math.random() - 0.5) * 0.5;
         this.vy = (Math.random() - 0.5) * 0.5;
         this.radius = Math.random() * 2 + 1;
-        this.color = Math.random() > 0.5 ? '#3B82F6' : '#06B6D4';
+        this.color = Math.random() > 0.5 ? '#10B981' : '#14B8A6';
       }
 
       update() {

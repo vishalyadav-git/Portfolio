@@ -128,7 +128,7 @@ export default function About() {
           align-items: center;
           justify-content: center;
           margin: 0 auto 20px auto;
-          box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+          box-shadow: 0 8px 25px rgba(16, 185, 129, 0.4);
           border: 3px solid rgba(255, 255, 255, 0.1);
           overflow: hidden;
         }
@@ -244,19 +244,19 @@ export default function About() {
         .quality-card:hover {
           transform: translateY(-5px);
           border-color: var(--color-primary);
-          box-shadow: 0 10px 20px rgba(59, 130, 246, 0.1);
+          box-shadow: 0 10px 20px rgba(16, 185, 129, 0.1);
         }
 
         .icon-wrapper {
           width: 44px;
           height: 44px;
           border-radius: 12px;
-          background: rgba(59, 130, 246, 0.1);
+          background: rgba(16, 185, 129, 0.1);
           display: flex;
           align-items: center;
           justify-content: center;
           margin-bottom: 15px;
-          border: 1px solid rgba(59, 130, 246, 0.2);
+          border: 1px solid rgba(16, 185, 129, 0.2);
         }
 
         .card-icon {

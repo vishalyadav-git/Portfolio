@@ -84,10 +84,10 @@ export default function Experience() {
           bottom: 0;
           width: 2px;
           background: linear-gradient(180deg, 
-            rgba(59, 130, 246, 0) 0%, 
-            rgba(59, 130, 246, 0.4) 15%, 
-            rgba(6, 182, 212, 0.4) 85%, 
-            rgba(6, 182, 212, 0) 100%
+            rgba(16, 185, 129, 0) 0%, 
+            rgba(16, 185, 129, 0.4) 15%, 
+            rgba(20, 184, 166, 0.4) 85%, 
+            rgba(20, 184, 166, 0) 100%
           );
           transform: translateX(-50%);
           z-index: 0;
@@ -167,7 +167,7 @@ export default function Experience() {
 
         .timeline-item:hover .timeline-content-card {
           border-color: var(--color-primary);
-          box-shadow: 0 10px 30px rgba(59, 130, 246, 0.1);
+          box-shadow: 0 10px 30px rgba(16, 185, 129, 0.1);
           transform: translateY(-2px);
         }
 

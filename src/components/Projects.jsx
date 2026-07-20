@@ -44,7 +44,7 @@ const PROJECTS_DATA = [
     github: 'https://github.com/vishalyadav-git/WanderLust',
     live: 'https://wanderlust-travel-listings.onrender.com/',
     icon: <Plane size={40} className="proj-visual-icon" />,
-    gradient: 'linear-gradient(135deg, #EC4899 0%, #3B82F6 100%)'
+    gradient: 'linear-gradient(135deg, #EC4899 0%, #10B981 100%)'
   },
   {
     id: 3,
@@ -61,7 +61,7 @@ const PROJECTS_DATA = [
     github: 'https://github.com/vishalyadav-git/provue-tara-finance-agent',
     live: null,
     icon: <TrendingUp size={40} className="proj-visual-icon" />,
-    gradient: 'linear-gradient(135deg, #10B981 0%, #06B6D4 100%)'
+    gradient: 'linear-gradient(135deg, #10B981 0%, #14B8A6 100%)'
   }
 ];
 
@@ -201,7 +201,7 @@ export default function Projects() {
           color: #ffffff;
           background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
           border-color: transparent;
-          box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+          box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
         }
 
         /* Projects Layout */
@@ -344,8 +344,8 @@ export default function Projects() {
         .tech-badge {
           font-size: 11px;
           font-weight: 600;
-          background: rgba(59, 130, 246, 0.08);
-          border: 1px solid rgba(59, 130, 246, 0.15);
+          background: rgba(16, 185, 129, 0.08);
+          border: 1px solid rgba(16, 185, 129, 0.15);
           color: var(--color-primary);
           padding: 4px 10px;
           border-radius: 6px;
